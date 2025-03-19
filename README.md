@@ -35,6 +35,10 @@ This project aims to predict customer churn by comparing the performance of two 
 - It is publicly available and used for educational purposes.  
 
 ---
+## 📌 Acknowledgment
+- This project was inspired by YouTube tutorials and enhanced with custom modifications.
+- https://youtube.com/@satyajitpattnaik?si=tLhi8Q1M3XAxPMm-
+---
 
 ## 🔥 How to Run  
 1. **Open the Colab notebook:**  
@@ -43,3 +47,4 @@ This project aims to predict customer churn by comparing the performance of two 
 3. **Install missing libraries** (if required):  
 ```python
 !pip install imbalanced-learn
+
